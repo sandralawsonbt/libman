@@ -1,0 +1,2 @@
+# libman
+library manual
